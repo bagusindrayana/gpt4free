@@ -7,6 +7,7 @@ from .base_provider import BaseProvider
 
 
 class Sherlogram(BaseProvider):
+    #https://play.google.com/store/apps/details?id=com.smplea.chatgpt
     url = "https://sherlogram.herokuapp.com"
     working = True
     supports_stream = False
