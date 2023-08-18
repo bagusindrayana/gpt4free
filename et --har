@@ -1,0 +1,23 @@
+[33mb89bce2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33mb89bce2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{1}: checkout: moving from main to main
+[33mb89bce2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{2}: commit: add provider
+[33me4b76de[m[33m ([m[1;31morigin/smartai[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32msmartai[m[33m)[m HEAD@{3}: checkout: moving from sherlogram to main
+[33m80c4e70[m[33m ([m[1;31morigin/sherlogram[m[33m, [m[1;32msherlogram[m[33m)[m HEAD@{4}: commit: comment link to playstore
+[33m80db282[m HEAD@{5}: commit: add provider
+[33me4b76de[m[33m ([m[1;31morigin/smartai[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32msmartai[m[33m)[m HEAD@{6}: checkout: moving from main to sherlogram
+[33me4b76de[m[33m ([m[1;31morigin/smartai[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32msmartai[m[33m)[m HEAD@{7}: checkout: moving from wuguokai to main
+[33m0b5d1d3[m[33m ([m[1;31morigin/wuguokai[m[33m, [m[1;32mwuguokai[m[33m)[m HEAD@{8}: commit: add provider
+[33me4b76de[m[33m ([m[1;31morigin/smartai[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32msmartai[m[33m)[m HEAD@{9}: checkout: moving from main to wuguokai
+[33me4b76de[m[33m ([m[1;31morigin/smartai[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32msmartai[m[33m)[m HEAD@{10}: pull origin main: Fast-forward
+[33mcfa4380[m HEAD@{11}: checkout: moving from wuguokai to main
+[33mf71dc6c[m HEAD@{12}: commit: add provider
+[33m130cd39[m HEAD@{13}: commit: add provider
+[33md9b066f[m[33m ([m[1;31morigin/V50[m[33m, [m[1;32mV50[m[33m)[m HEAD@{14}: checkout: moving from V50 to wuguokai
+[33md9b066f[m[33m ([m[1;31morigin/V50[m[33m, [m[1;32mV50[m[33m)[m HEAD@{15}: commit: provider to Provider in testing
+[33m6f999d5[m HEAD@{16}: commit (merge): another merge
+[33m64e8381[m HEAD@{17}: commit: refactor V50 and Raycast
+[33m74ecdee[m HEAD@{18}: commit (merge): merge and refactor
+[33m9ab880a[m HEAD@{19}: commit: add proxy and remove stream
+[33mcbaad15[m HEAD@{20}: commit: add v50
+[33mcfa4380[m HEAD@{21}: checkout: moving from main to V50
+[33mcfa4380[m HEAD@{22}: clone: from https://github.com/bagusindrayana/gpt4free.git
