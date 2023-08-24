@@ -25,6 +25,7 @@ from .You import You
 from .Yqcloud import Yqcloud
 from .Equing import Equing
 from .FastGpt import FastGpt
+from .V50 import V50
 from .Sherlogram import Sherlogram
 
 __all__ = [
@@ -55,5 +56,6 @@ __all__ = [
     "Yqcloud",
     "Equing",
     "FastGpt",
+    "V50",
     "Sherlogram"
 ]
